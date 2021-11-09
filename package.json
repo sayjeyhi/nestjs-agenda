@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hanFengSan/nestjs-agenda.git"
+    "url": "git+ssh://github.com/sayjeyhi/nestjs-agenda-4.git"
   },
   "keywords": [
     "nestjs",
@@ -18,9 +18,9 @@
   "author": "Alex Chen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hanFengSan/nestjs-agenda/issues"
+    "url": "https://github.com/sayjeyhi/nestjs-agenda-4/issues"
   },
-  "homepage": "https://github.com/hanFengSan/nestjs-agenda#readme",
+  "homepage": "https://github.com/sayjeyhi/nestjs-agenda-4#readme",
   "dependencies": {
     "@nestjs/common": "^6.6.7",
     "@nestjs/core": "^6.6.7",
