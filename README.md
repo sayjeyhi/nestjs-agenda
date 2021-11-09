@@ -1,4 +1,4 @@
-# nestjs-agenda updated
+# nestjs-agenda-4
 [Agenda](https://github.com/agenda/agenda) module for [Nestjs](https://github.com/nestjs/nest)
 
 Agenda version is `^4.1.0`
