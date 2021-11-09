@@ -1,7 +1,7 @@
 import { Module, DynamicModule, Provider, Inject } from '@nestjs/common';
 import { AgendaModuleOptions, AgendaModuleAsyncOptions, AgendaOptionsFactory } from './interfaces';
 import { AGENDA_MODULE_OPTIONS } from './agenda.constants';
-import * as Agenda from 'agenda';
+import Agenda from 'agenda';
 
 function createAgendaProvider(options: AgendaModuleOptions): any[] {
   return [{ provide: AGENDA_MODULE_OPTIONS, useValue: options || {} }];
